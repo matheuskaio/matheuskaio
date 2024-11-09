@@ -90,6 +90,14 @@ Me chamo Matheus Kaio, sou natural do Rio Grande do Norte. Concluí o curso téc
 />
 <img 
     align="left" 
+    alt="WordPress" 
+    title="WordPress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
