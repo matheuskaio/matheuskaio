@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Matheus Kaio
+# 🧑🏿‍💻 Matheus Kaio
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Matheus Kaio, sou natural do Rio Grande do Norte. Concluí o curso técnico em informática no IFRN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRN.
 
