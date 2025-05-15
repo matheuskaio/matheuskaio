@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Kaio, sou natural do Rio Grande do Norte. Concluí o curso técnico em informática no IFRN. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRN.
+Me chamo Matheus Kaio, sou natural do Rio Grande do Norte. Concluí o curso técnico em informática no IFRN e o Tecnólogo em Análise e Desenvolvimento de Sistemas no IFRN.
 
 ---
 
